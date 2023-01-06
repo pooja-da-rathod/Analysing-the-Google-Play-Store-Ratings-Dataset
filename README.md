@@ -12,7 +12,7 @@ The team at Google Play Store wants to develop a feature that would enable them 
 
 So here Rating column is our target variable. I analysed the way the rating varies across different categories of other variables to determine the most important indicators for the high-performing apps.
 
-** Insights after visualing the data using Matplotlib and Seaborn after Cleaning the data**:
+** Insights after visualing the data using Matplotlib and Seaborn after Cleaning the data **:
 
 * First, I did data handling and cleaning - cleaning junk records, adding missing values, changing data types, remove outliers, etc.
 * When I analysed the ratings using the histogram, I saw that they are skewed towards higher ratings.
